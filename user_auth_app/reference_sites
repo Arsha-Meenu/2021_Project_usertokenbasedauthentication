@@ -1,0 +1,45 @@
+https://www.youtube.com/watch?v=5JG5PyU1CXI&list=PLgCYzUzKIBE9Pi8wtx8g55fExDAPXBsbV&index=8
+
+
+https://www.youtube.com/watch?v=a7Js59b5P-c
+
+https://stackoverflow.com/questions/35970970/django-rest-framework-permission-classes-of-viewset-method?rq=1 
+
+
+#### swagger section sites ######
+
+https://www.youtube.com/watch?v=IU9YuRhhY7M
+
+https://www.youtube.com/watch?v=xlcYLlndqz4&t=198s
+
+https://drf-yasg.readthedocs.io/en/stable/security.html
+
+{{{  For swagger in  APIVIEW section 
+    https://github.com/axnsan12/drf-yasg/blob/master/testproj/users/urls.py
+https://github.com/axnsan12/drf-yasg/blob/master/testproj/users/views.py#L26
+https://github.com/axnsan12/drf-yasg/blob/master/testproj/users/serializers.py
+}}}
+###########
+
+{{logging section 
+
+https://www.youtube.com/watch?v=g8nQ90Hk328
+https://www.youtube.com/watch?v=-vVml7cpWzY&t=430s
+
+https://data-flair.training/blogs/django-logging/}}
+
+
+###### just referenced sites ###
+
+https://stackoverflow.com/questions/6069070/how-to-use-permission-required-decorators-on-django-class-based-views
+https://groups.google.com/g/django-rest-framework/c/sSN4HiJbIB4?pli=1
+https://www.valentinog.com/blog/drf-request/
+https://stackoverflow.com/questions/58904662/django-rest-framework-genericviewset-with-authentication-permission-decorator
+
+https://stackoverflow.com/questions/57794490/how-to-set-permissions-to-only-post-data-for-api-react-django-rest-framework
+https://www.django-rest-framework.org/api-guide/views/#authentication_classes
+https://learnbatta.com/blog/permissions-in-django-rest-framework-82/
+https://www.webforefront.com/django/introrestframework.html
+https://www.youtube.com/watch?v=B38aDwUpcFc&t=2410s
+https://www.pkimber.net/howto/django/views/class-based-perm.html
+https://www.webforefront.com/django/permissionchecks.html
